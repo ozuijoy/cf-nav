@@ -1,0 +1,159 @@
+{
+  "categories": [
+    {
+      "id": "api",
+      "name": "API 服務",
+      "icon": "🔌",
+      "items": [
+        {
+          "name": "OpenAI API",
+          "description": "ChatGPT、DALL-E 等先進 AI 模型的官方 API 文檔",
+          "url": "https://platform.openai.com/docs",
+          "tags": ["AI", "LLM", "付費"]
+        },
+        {
+          "name": "Cloudflare API",
+          "description": "Cloudflare 各項服務的完整 API 文檔",
+          "url": "https://developers.cloudflare.com/api/",
+          "tags": ["CDN", "DNS", "免費"]
+        },
+        {
+          "name": "JSONPlaceholder",
+          "description": "免費的假 REST API，用於測試和原型設計",
+          "url": "https://jsonplaceholder.typicode.com",
+          "tags": ["測試", "REST", "免費"]
+        },
+        {
+          "name": "RESTful API 設計最佳實踐",
+          "description": "Google 的 API 設計指南",
+          "url": "https://google.aip.dev/",
+          "tags": ["設計", "REST", "文檔"]
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "開發工具",
+      "icon": "🛠️",
+      "items": [
+        {
+          "name": "VS Code",
+          "description": "微軟開源的輕量級但功能強大的代碼編輯器",
+          "url": "https://code.visualstudio.com/",
+          "tags": ["編輯器", "開源", "免費"]
+        },
+        {
+          "name": "GitHub",
+          "description": "全球最大的代碼託管和版本控制平台",
+          "url": "https://github.com",
+          "tags": ["Git", "協作", "免費"]
+        },
+        {
+          "name": "Postman",
+          "description": "API 開發、測試和文檔的完整平台",
+          "url": "https://www.postman.com/",
+          "tags": ["API", "測試", "免費"]
+        },
+        {
+          "name": "Docker",
+          "description": "容器化應用的標準工具，簡化部署流程",
+          "url": "https://www.docker.com/",
+          "tags": ["容器", "部署", "開源"]
+        }
+      ]
+    },
+    {
+      "id": "docs",
+      "name": "技術文檔",
+      "icon": "📚",
+      "items": [
+        {
+          "name": "MDN Web Docs",
+          "description": "最完整的 Web 標準、HTML、CSS、JavaScript 文檔",
+          "url": "https://developer.mozilla.org/",
+          "tags": ["Web", "參考", "免費"]
+        },
+        {
+          "name": "Vue.js 文檔",
+          "description": "漸進式 JavaScript 框架的官方文檔",
+          "url": "https://vuejs.org/",
+          "tags": ["Vue", "框架", "免費"]
+        },
+        {
+          "name": "React 文檔",
+          "description": "Facebook 開源的 JavaScript 函數式 UI 庫",
+          "url": "https://react.dev/",
+          "tags": ["React", "框架", "免費"]
+        },
+        {
+          "name": "Node.js 文檔",
+          "description": "JavaScript 運行時的官方文檔和 API 參考",
+          "url": "https://nodejs.org/docs/",
+          "tags": ["Node", "後端", "免費"]
+        }
+      ]
+    },
+    {
+      "id": "resources",
+      "name": "學習資源",
+      "icon": "🎓",
+      "items": [
+        {
+          "name": "FreeCodeCamp",
+          "description": "免費的編程課程和教程",
+          "url": "https://www.freecodecamp.org/",
+          "tags": ["教育", "免費", "課程"]
+        },
+        {
+          "name": "Codecademy",
+          "description": "交互式編程學習平台",
+          "url": "https://www.codecademy.com/",
+          "tags": ["教育", "互動", "課程"]
+        },
+        {
+          "name": "Stack Overflow",
+          "description": "最大的編程問答社區",
+          "url": "https://stackoverflow.com/",
+          "tags": ["社區", "問答", "免費"]
+        },
+        {
+          "name": "Dev.to",
+          "description": "開發者社區和技術博客平台",
+          "url": "https://dev.to/",
+          "tags": ["社區", "博客", "免費"]
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "設計資源",
+      "icon": "🎨",
+      "items": [
+        {
+          "name": "Tailwind CSS",
+          "description": "功能優先的 CSS 框架，快速構建現代設計",
+          "url": "https://tailwindcss.com/",
+          "tags": ["CSS", "框架", "免費"]
+        },
+        {
+          "name": "Unsplash",
+          "description": "免費高質量攝影圖片庫",
+          "url": "https://unsplash.com/",
+          "tags": ["圖片", "免費", "CC0"]
+        },
+        {
+          "name": "Figma",
+          "description": "專業的設計和原型工具",
+          "url": "https://www.figma.com/",
+          "tags": ["設計", "原型", "協作"]
+        },
+        {
+          "name": "Material Design",
+          "description": "Google 的設計系統和組件庫",
+          "url": "https://m3.material.io/",
+          "tags": ["設計系統", "組件", "免費"]
+        }
+      ]
+    }
+  ]
+}
